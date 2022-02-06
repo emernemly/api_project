@@ -1,0 +1,21 @@
+.cardDetails {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.cardDetails h1 {
+  color: #d57d1f;
+}
+.cardDetails h2 {
+  font-style: italic;
+  line-height: 1.6;
+}
+.cardDetails button {
+  background-color: #d57d1f;
+  margin: 10px;
+  font-size: 30px;
+  border-radius: 12px;
+  color: white;
+  cursor: pointer;
+}
